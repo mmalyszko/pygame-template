@@ -15,6 +15,8 @@ Work in progress.
 
 `src/game/` contains a simple raycasting example with player movement, wall collision detection and a minimap.
 
+![Demo](demo.gif)
+
 ## Development
 
 Create & activate venv: `python3 -m venv .venv && source .venv/bin/activate`
